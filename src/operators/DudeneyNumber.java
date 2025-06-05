@@ -13,6 +13,6 @@ public class DudeneyNumber {
 			temp = temp / 10;
 			lang++;
 		}
-
+		sc.close();
 	}
 }

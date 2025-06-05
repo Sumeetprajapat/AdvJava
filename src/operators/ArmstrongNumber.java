@@ -33,5 +33,6 @@ public class ArmstrongNumber {
 		System.out.println(arm);
 		System.out.println(temp);
 		System.out.println(temp2);
+		sc.close();
 	}
 }

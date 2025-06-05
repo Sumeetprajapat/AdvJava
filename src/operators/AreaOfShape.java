@@ -33,6 +33,7 @@ public class AreaOfShape {
 			break;
 		default:
 			System.out.println("invalid choice(enter between 1 to 3)only");
+			sc.close();
 
 		}
 
